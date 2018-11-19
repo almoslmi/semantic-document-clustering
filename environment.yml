@@ -135,5 +135,4 @@ dependencies:
     - pillow==5.3.0
     - tensorflow-hub==0.1.1
     - wordcloud==1.5.0
-prefix: /home/avanwyk/anaconda/envs/tf-py-36
 
